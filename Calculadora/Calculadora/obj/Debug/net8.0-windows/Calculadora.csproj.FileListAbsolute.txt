@@ -1,0 +1,16 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.form1.resources
