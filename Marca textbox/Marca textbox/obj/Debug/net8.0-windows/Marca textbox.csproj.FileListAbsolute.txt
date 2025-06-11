@@ -1,0 +1,16 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\bin\Debug\net8.0-windows\Marca textbox.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\bin\Debug\net8.0-windows\Marca textbox.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\bin\Debug\net8.0-windows\Marca textbox.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\bin\Debug\net8.0-windows\Marca textbox.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\bin\Debug\net8.0-windows\Marca textbox.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\Marca_textbox.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\Marca textbox.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\Marca textbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\Marca textbox.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\Marca textbox.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\Marca textbox.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\Marca textbox.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\refint\Marca textbox.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\Marca textbox.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\Marca textbox.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Marca textbox\Marca textbox\obj\Debug\net8.0-windows\ref\Marca textbox.dll

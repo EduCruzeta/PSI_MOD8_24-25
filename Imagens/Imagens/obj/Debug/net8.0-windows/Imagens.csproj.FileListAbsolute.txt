@@ -1,0 +1,17 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\bin\Debug\net8.0-windows\Imagens.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\bin\Debug\net8.0-windows\Imagens.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\bin\Debug\net8.0-windows\Imagens.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\bin\Debug\net8.0-windows\Imagens.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\bin\Debug\net8.0-windows\Imagens.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.Properties.Resources.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\refint\Imagens.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\Imagens.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Imagens\Imagens\obj\Debug\net8.0-windows\ref\Imagens.dll
