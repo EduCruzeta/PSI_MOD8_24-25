@@ -1,0 +1,16 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\masterMind.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\masterMind.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\masterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\masterMind.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\masterMind.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\masterMind.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\bin\Debug\net8.0-windows\masterMind.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\bin\Debug\net8.0-windows\masterMind.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\bin\Debug\net8.0-windows\masterMind.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\bin\Debug\net8.0-windows\masterMind.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\bin\Debug\net8.0-windows\masterMind.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\masterMind.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\refint\masterMind.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\masterMind.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\masterMind.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\masterMind\masterMind\obj\Debug\net8.0-windows\ref\masterMind.dll

@@ -1,0 +1,14 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\obj\Debug\net8.0\refint\OlaMundo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\OlaMundo\OlaMundo\obj\Debug\net8.0\ref\OlaMundo.dll
