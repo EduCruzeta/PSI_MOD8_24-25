@@ -1,0 +1,17 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\bin\Debug\net8.0-windows\Palindromo.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\bin\Debug\net8.0-windows\Palindromo.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\bin\Debug\net8.0-windows\Palindromo.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\bin\Debug\net8.0-windows\Palindromo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\bin\Debug\net8.0-windows\Palindromo.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\refint\Palindromo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\ref\Palindromo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Palindromo\Palindromo\obj\Debug\net8.0-windows\Palindromo.f_splach.resources

@@ -1,0 +1,18 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\bin\Debug\net8.0-windows\Programa entradas.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\bin\Debug\net8.0-windows\Programa entradas.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\bin\Debug\net8.0-windows\Programa entradas.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\bin\Debug\net8.0-windows\Programa entradas.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\bin\Debug\net8.0-windows\Programa entradas.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa_entradas.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa entradas.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa entradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa entradas.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa entradas.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa entradas.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa entradas.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\refint\Programa entradas.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa entradas.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa entradas.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\ref\Programa entradas.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa_entradas.Form2.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Programa entradas\Programa entradas\obj\Debug\net8.0-windows\Programa_entradas.Form3.resources
