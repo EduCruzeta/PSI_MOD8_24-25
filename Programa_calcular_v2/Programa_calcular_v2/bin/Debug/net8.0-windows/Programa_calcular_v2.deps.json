@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Programa_calcular_v2/1.0.0": {
+        "runtime": {
+          "Programa_calcular_v2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa_calcular_v2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
