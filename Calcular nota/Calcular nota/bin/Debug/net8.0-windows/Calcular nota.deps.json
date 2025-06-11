@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calcular nota/1.0.0": {
+        "runtime": {
+          "Calcular nota.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcular nota/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

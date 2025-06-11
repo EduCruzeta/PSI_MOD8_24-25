@@ -1,0 +1,16 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\Calcular_nota.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\Calcular nota.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\Calcular nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\Calcular nota.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\Calcular nota.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\Calcular nota.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\bin\Debug\net8.0-windows\Calcular nota.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\bin\Debug\net8.0-windows\Calcular nota.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\bin\Debug\net8.0-windows\Calcular nota.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\bin\Debug\net8.0-windows\Calcular nota.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\bin\Debug\net8.0-windows\Calcular nota.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\Calcular nota.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\refint\Calcular nota.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\Calcular nota.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\Calcular nota.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular nota\Calcular nota\obj\Debug\net8.0-windows\ref\Calcular nota.dll

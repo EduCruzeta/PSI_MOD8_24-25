@@ -1,0 +1,17 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\bin\Debug\net8.0-windows\Calcular_idade.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\bin\Debug\net8.0-windows\Calcular_idade.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\bin\Debug\net8.0-windows\Calcular_idade.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\bin\Debug\net8.0-windows\Calcular_idade.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\bin\Debug\net8.0-windows\Calcular_idade.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.f_sobre.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\refint\Calcular_idade.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\Calcular_idade.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Calcular_idade\Calcular_idade\obj\Debug\net8.0-windows\ref\Calcular_idade.dll
