@@ -1,0 +1,16 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\bin\Debug\net8.0-windows\Windows_ola_mundo.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\bin\Debug\net8.0-windows\Windows_ola_mundo.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\bin\Debug\net8.0-windows\Windows_ola_mundo.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\bin\Debug\net8.0-windows\Windows_ola_mundo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\bin\Debug\net8.0-windows\Windows_ola_mundo.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\Windows_ola_mundo.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\Windows_ola_mundo.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\Windows_ola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\Windows_ola_mundo.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\Windows_ola_mundo.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\Windows_ola_mundo.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\Windows_ola_mundo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\refint\Windows_ola_mundo.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\Windows_ola_mundo.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\Windows_ola_mundo.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Windows_ola_mundo\Windows_ola_mundo\obj\Debug\net8.0-windows\ref\Windows_ola_mundo.dll

@@ -1,0 +1,16 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\bin\Debug\net8.0-windows\Tabuada.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\bin\Debug\net8.0-windows\Tabuada.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\bin\Debug\net8.0-windows\Tabuada.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\bin\Debug\net8.0-windows\Tabuada.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\bin\Debug\net8.0-windows\Tabuada.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\Tabuada.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\Tabuada.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\Tabuada.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\Tabuada.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\Tabuada.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\refint\Tabuada.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\Tabuada.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\Tabuada.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Tabuada\Tabuada\obj\Debug\net8.0-windows\ref\Tabuada.dll
