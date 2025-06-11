@@ -1,0 +1,16 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\bin\Debug\net8.0-windows\Restaurante.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\bin\Debug\net8.0-windows\Restaurante.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\bin\Debug\net8.0-windows\Restaurante.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\bin\Debug\net8.0-windows\Restaurante.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\bin\Debug\net8.0-windows\Restaurante.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\Restaurante.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\Restaurante.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\Restaurante.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\Restaurante.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\Restaurante.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\refint\Restaurante.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\Restaurante.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\Restaurante.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\Restaurante\Restaurante\obj\Debug\net8.0-windows\ref\Restaurante.dll

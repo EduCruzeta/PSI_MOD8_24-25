@@ -1,0 +1,17 @@
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\bin\Debug\net8.0-windows\strings.exe
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\bin\Debug\net8.0-windows\strings.deps.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\bin\Debug\net8.0-windows\strings.runtimeconfig.json
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\bin\Debug\net8.0-windows\strings.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\bin\Debug\net8.0-windows\strings.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.Form1.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.f_splach.resources
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.csproj.GenerateResource.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.AssemblyInfo.cs
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\refint\strings.dll
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.pdb
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\strings.genruntimeconfig.cache
+C:\Users\EduardoCruz\.vscode\PSI_MOD8_24-25\strings\strings\obj\Debug\net8.0-windows\ref\strings.dll
